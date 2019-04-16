@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+ <meta charset="UTF-8">
+ <title> Boite </title>
+ <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+ <script src="script.js" type="application/javascript"></script>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body onload="">
+<h1>le YAHTZEE</h1>
+
+<button onclick="Yahtzee.random()">Lancer les dés</button>
+<button onclick="nouvellePartie()">Nouvelle Partie</button>
+
+<div id="listeDes">
+
+</div>
+
+<table id="sectionSuperieure" border="solid 1px black">
+    <tr id="sectionSuperieureInfos">
+        <td><strong>Section Supérieure</strong></td>
+        <td>Jeu</td>
+        <td id="#sectionSuperieureInfosActions">Actions dispo</td>
+    </tr>
+    <tr id="totalASLigne">
+        <td>Total des <strong>AS</strong></td>
+        <td id="totalAS"></td>
+        <td id="totalASLigneButton"></td>
+    </tr>
+    <tr id="totalDEUXLigne">
+        <td>Total des <strong>DEUX</strong></td>
+        <td id="totalDEUX"></td>
+        <td id="totalDEUXLigneButton"></td>
+    </tr>
+    <tr id="totalTROISLigne">
+        <td>Total des <strong>TROIS</strong></td>
+        <td id="totalTROIS"></td>
+        <td id="totalTROISLigneButton"></td>
+    </tr>
+    <tr id="totalQUATRELigne">
+        <td>Total des <strong>QUATRE</strong></td>
+        <td id="totalQUATRE"></td>
+        <td id="totalQUATRELigneButton"></td>
+    </tr>  
+    <tr id="totalCINQLigne">
+        <td>Total des <strong>CINQ</strong></td>
+        <td id="totalCINQ"></td>
+        <td id="totalCINQLigneButton"></td>
+    </tr>
+    <tr id="totalSIXLigne">
+        <td>Total des <strong>SIX</strong></td>
+        <td id="totalSIX"></td>
+        <td id="totalSIXLigneButton"></td>
+    </tr>
+    <tr id="total123456Ligne">
+        <td><strong>Total</strong></td>
+        <td id="total123456"></td>
+    </tr>
+    <tr id="prime63Ligne">
+        <td><strong>63+ Prime des 35 points</strong></td>
+        <td id="prime63"></td>
+    </tr>
+    <tr id="totalSectionSupLigne">
+        <td><strong>Total de la section supérieure</strong></td>
+        <td id="totalSectionSup"></td>
+    </tr>       
+</table>
+
+<table id="sectionInferieure" border="solid 1px black">
+        <tr id="sectionInferieureInfos">
+            <td><strong>Section Inférieure</strong></td>
+            <td>Jeu</td>
+            <td id="#sectionInferieureInfosActions">Actions dispo</td>
+        </tr>
+        <tr id="brelanLigne">
+            <td>Brelan <strong>Total des cinq dés</strong></td>
+            <td id="brelan"></td>
+            <td id="brelanLigneButton"></td>
+        </tr>
+        <tr id="carreLigne">
+            <td>Carré <strong>Total des cinq dés</strong></td>
+            <td id="carre"></td>
+            <td id="carreLigneButton"></td>
+        </tr>
+        <tr id="fullLigne">
+            <td>Full <strong>25 pts</strong></td>
+            <td id="full"></td>
+            <td id="fullLigneButton"></td>
+        </tr>
+        <tr id="petiteSuiteLigne">
+            <td>Petite suite <strong>30 pts</strong></td>
+            <td id="petiteSuite"></td>
+            <td id="petiteSuiteLigneButton"></td>
+        </tr>
+        <tr id="yahzteeLigne">
+            <td>Yahztee <strong>50 pts</strong></td>
+            <td id="yahztee"></td>
+            <td id="yahzteeLigneButton"></td>
+        </tr>  
+        <tr id="chanceLigne">
+            <td>Chance <strong>Total des cinq dés</strong></td>
+            <td id="chance"></td>
+            <td id="chanceLigneButton"></td>
+        </tr>
+        <tr id="primeYahtzeeLigne">
+            <td>Prime Yahtzee <strong>100 pts</strong></td>
+            <td id="primeYahtzee"></td>
+            <td id="primeYahzteeLigneButton"></td>
+        </tr>
+        <tr id="totalSectionSupLigneGameOver">
+            <td><strong>Total de la section supérieure</strong></td>
+            <td id="totalSectionSupGameOver"></td>
+        </tr>
+        <tr id="totalSectionInfLigneGameOver">
+            <td><strong>Total de la section inférieure</strong></td>
+            <td id="totalSectionInfGameOver"></td>
+        </tr>     
+    </table>
+    <table id="sectionScore" border="solid 1px black">
+        <tr id="totalGeneralLigne">
+            <td><strong>Total général</strong></td>
+            <td id="totalGeneral"></td>
+        </tr>
+    </table>
+
+</body>
+</html>
