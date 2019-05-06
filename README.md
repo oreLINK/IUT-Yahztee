@@ -14,7 +14,7 @@ Projet Javascript du semestre 3 d'IUT Informatique, création du jeu Yahtzee en 
 
 ## English
 
-Javascript project of the semester 3 of IUT Informatique, creation of the Yahtzee game in JS.
+Javascript project of the semester 3 of IUT science of computer, creation of the Yahtzee game in JS.
 
 ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)   *Ongoing project*
 
