@@ -39,7 +39,7 @@ Projet Javascript du semestre 3 d'IUT Informatique, création du jeu Yahtzee en 
     
 ### Licence
 
-<a href="https://fr.wikipedia.org/wiki/Licence_MIT"><img src="https://ucarecdn.com/71946d9b-adad-4d6e-9130-0a480ddcc553/" alt="Licence MIT" width="100" height="100"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Licence_MIT"><img src="https://ucarecdn.com/71946d9b-adad-4d6e-9130-0a480ddcc553/" alt="Licence MIT" width="100" height="100"/></a>
 
 ### Contributeurs
 
