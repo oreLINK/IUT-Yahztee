@@ -24,7 +24,7 @@ Projet Javascript du semestre 3 d'IUT Informatique, création du jeu Yahtzee en 
 
 #### Windows
 
-*Pour utiliser la ou les ligne.s de commande.s à venir, utilisez Windows PowerShell ou [Git Bash](https://gitforwindows.org/).*
+*Pour utiliser la ou les ligne.s de commande.s à venir, utilisez [Windows PowerShell](https://www.malekal.com/powershell-windows-10-quest-ce-comment-ouvrir-commandes/) ou [Git Bash](https://gitforwindows.org/).*
 
 ...
 
@@ -44,6 +44,10 @@ Projet Javascript du semestre 3 d'IUT Informatique, création du jeu Yahtzee en 
 ### Contributeurs
 
 * [oreLINK](https://github.com/oreLINK)
+
+### Contributions
+
+*Ce projet n'accepte pas les contributions externes.*
 
 ## English
 
