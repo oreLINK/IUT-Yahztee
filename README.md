@@ -4,42 +4,42 @@ Javascript project of the semester 3 of IUT science of computer, creation of the
 
 ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)   *Ongoing project*
 
-# Prerequisites
+## Prerequisites
 
 `Description coming soon...`
 
-# Installation
+## Installation
 
-## macOS & Linux
-
-`Description coming soon...`
-
-## Windows
+### macOS & Linux
 
 `Description coming soon...`
 
-# Demo
+### Windows
 
 `Description coming soon...`
 
-# Utilisation
+## Demo
 
 `Description coming soon...`
 
-# Release history
+## Utilisation
+
+`Description coming soon...`
+
+## Release history
     
 | Release | Description | Release date |
 | ------- | ----------- | ------------ |
 |  1.0.0  | Finalization of the project | Apr. 16 2019 |
     
-# License
+## License
 
 `Description coming soon...`
 
-# Contributors
+## Contributors
 
 * [oreLINK](https://github.com/oreLINK)
 
-# Contributions
+## Contributions
 
 *This project doesn't accept external contributions.*
